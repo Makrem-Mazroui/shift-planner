@@ -58,5 +58,3 @@ Real life happens. Use the third tab to:
 * **Contact:** makremmazroui@gmail.com
 
 ---
-
-**Next Step:** Would you like me to help you create a `.gitignore` file to ensure you don't accidentally upload your local `dist`, `build`, or JSON data files to GitHub?
