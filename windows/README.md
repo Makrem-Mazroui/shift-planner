@@ -1,13 +1,1 @@
-**Create a Real Windows App (.exe)**
-If you want a single file that works on any Windows computer (even ones without Python installed), 
-you can turn your script into an .exe file. This is often cleaner than using batch files.
-
-Open your terminal/command prompt.
-
-Install PyInstaller: 
-$ pip install pyinstaller
-
-Navigate to your folder and run this command: 
-$ pyinstaller --noconsole --onefile shift-planner.pyc
-
-This will create a dist folder containing shift-plan-gui.exe. You can send just that .exe file to anyone, and it will run your app.
+**You can copy just that .exe file to a USB drive, email it, or put it on a shared network drive, and it will run on other Windows computers even if they don't have Python installed.**
