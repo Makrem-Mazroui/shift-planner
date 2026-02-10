@@ -1,5 +1,3 @@
-$ pip install pyinstaller
-$ pip install ttkbootstrap
-$ pip install pyinstaller cryptography
+pip install pyinstaller cryptography ttkbootstrap  
 
-$ python -m PyInstaller --noconsole --onefile --name "PyDuty Pro V2" main.py
+python -m PyInstaller --noconsole --onefile --name "PyDuty Pro V2" main.py
