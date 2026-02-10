@@ -36,8 +36,6 @@ Outlook Automation: Direct integration with the Outlook Desktop App (Windows & m
 
 Targeted Dispatch: Send the generated plan to the entire team or select specific members.
 
-Calendar Export: Generates industry-standard .ics files for easy import into Outlook, Google, or Apple Calendars.
-
 🗄️ Archive & History Manager
 
 Time Machine: Archive current plans with a single click.
