@@ -1,5 +1,3 @@
-This is a professional README.md designed for your GitHub repository. It highlights the enterprise-grade features we've built and presents the tool as a high-end management solution.
-
 🛡️ PyDuty Pro V2
 The Definitive Executive Planning & Team Management Hub
 
