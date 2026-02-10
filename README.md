@@ -77,43 +77,8 @@ Microsoft Outlook (for automated emailing).
 
 Installation
 
-Clone the repository:
+Download the zip file and run the .app .exe
 
-code
-Bash
-download
-content_copy
-expand_less
-git clone https://github.com/yourusername/PyDutyProV2.git
-cd PyDutyProV2
-
-Create and activate a virtual environment:
-
-code
-Bash
-download
-content_copy
-expand_less
-python3 -m venv venv
-source venv/bin/activate  # macOS
-venv\Scripts\activate     # Windows
-
-Install dependencies:
-
-code
-Bash
-download
-content_copy
-expand_less
-pip install ttkbootstrap cryptography
-pip install pywin32  # Windows Only
-Running the App
-code
-Bash
-download
-content_copy
-expand_less
-python3 main.py
 🔒 Licensing
 
 PyDuty Pro V2 features a secure RSA-based Licensing System.
