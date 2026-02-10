@@ -23,7 +23,6 @@ Staffing Control: Define exact headcounts needed for every shift type.
 
 Rotation Logic: Fair distribution of shifts across the entire team.
 
-Seniority Enforcement: Advanced logic ensures no shift is left with only junior members.
 
 📊 Skill Matrix Heatmap
 
